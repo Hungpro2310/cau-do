@@ -1,0 +1,6 @@
+{
+  "name": "Bài 1: Quan Điểm, Đường Lối Y Tế | Tổ Chức & Quản Lý Dược",
+  "description": "Hệ thống bài giảng tương tác và trò chơi học tập Mật Mã Blouse Trắng, Cỗ máy thời gian 80 năm Y tế Việt Nam và Thảo luận góc nhìn Dược sĩ tương lai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
